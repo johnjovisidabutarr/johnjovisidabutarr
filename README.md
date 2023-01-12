@@ -2,4 +2,4 @@
 
 
 - 🔭 I’m interested in web development
-- 🌱 I’m currently learning Javascript and Go
+- 🌱 Currently learning Javascript and Go
